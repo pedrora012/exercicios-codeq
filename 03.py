@@ -1,4 +1,4 @@
-#Exercício 3
+#Exercicio 3
 A = float(input())
 B = float(input())
 C = float(input())
