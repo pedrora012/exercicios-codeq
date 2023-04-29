@@ -1,4 +1,4 @@
-#Exercício 1
+#Exercicio 1
 A = int(input()) 
 B = int(input()) 
 X = A + B
