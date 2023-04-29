@@ -1,4 +1,4 @@
-#Exercício 2
+#Exercicio 2
 r = float(input())
 pi = 3.14159
 A = pi*r**2
