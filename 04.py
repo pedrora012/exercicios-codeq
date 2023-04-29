@@ -1,4 +1,4 @@
-#Exercício 4
+#Exercicio 4
 A, B, C = map(float, input().split()) #Ler entradas e transformar em float
 pi = 3.14159
 tri = (A*C)/2
